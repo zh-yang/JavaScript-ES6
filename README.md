@@ -10,3 +10,5 @@ learn about ES6
 ### 4.引入组件
 
 ### 5.class
+
+### 6.promise
